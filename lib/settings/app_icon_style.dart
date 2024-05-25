@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 abstract class AppIconStyle{
   static const appBarIconColor = Colors.white;
+  static const favoriteIconColor = Colors.white;
   static const ratingStarColor = Colors.orange;
   static const countryIconColor = Colors.grey;
 
